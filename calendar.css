@@ -1,0 +1,20 @@
+#feriado {
+    color: red;
+}
+table, td, th, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    text-transform: uppercase;
+
+
+    /*border-collapse: collapse;
+    borda padrão */
+}
+td{
+    width: 80px;
+    height: 40px;
+}
+body{
+    background-color: aqua;
+}
