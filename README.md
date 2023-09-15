@@ -24,7 +24,7 @@ Após o usuário selecionar a cor e o dia, ele terá que pessionar o botão "Env
 
 ## Tecnologias Utilizadas
 
-Foi usado para esse calendário interativo o aplicativo [**Visual Studio Code**](https://code.visualstudio.com/) para criar o **HTML**, **JavaScript** e **CSS** (CSS foi usado para o estilo da página)
+Foi usado para esse calendário interativo o aplicativo [**Visual Studio Code**](https://code.visualstudio.com/) para criar o **HTML5**, **JavaScript** e **CSS3** (CSS3 foi usado para o estilo da página)
 
 # Fontes Consultadas
 
